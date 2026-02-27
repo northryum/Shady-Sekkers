@@ -8,8 +8,8 @@
   "name":"obj_p1",
   "overriddenProperties":[],
   "parent":{
-    "name":"objetos",
-    "path":"folders/objetos.yy",
+    "name":"objs_players",
+    "path":"folders/objetos/objs_players.yy",
   },
   "parentObjectId":{
     "name":"obj_player",
@@ -36,6 +36,9 @@
     "name":"spr_p1",
     "path":"sprites/spr_p1/spr_p1.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_player_idle",
+    "path":"sprites/spr_player_idle/spr_player_idle.yy",
+  },
   "visible":true,
 }
